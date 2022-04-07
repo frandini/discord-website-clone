@@ -2,8 +2,8 @@
 Simples Discord website clone using Quasar Vue
 
 
-- install dependencies
+# install dependencies
 yarn
 
-- run
+# run
 quasar dev
