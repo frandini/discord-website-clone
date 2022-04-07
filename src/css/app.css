@@ -1,0 +1,22 @@
+/* app global css */
+
+.main-background-color {
+  background-color: #404EED;
+}
+
+.discord-background-color {
+  background-color: #5865F2
+}
+
+.secondary-background-color {
+  background-color: #F6F6F6;
+}
+
+@font-face {
+  font-family: 'Whitneysemibold';
+  src: url(../assets/whitneysemibold.otf);
+}
+
+.max-content-width {
+  max-width: 1260px;
+}
