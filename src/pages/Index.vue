@@ -4,7 +4,7 @@
       <div class="col-12 main-background-color background-image">
         <div class="row justify-center items-center">
           <div class="col-auto first-section section-padding">
-            <div class="text-center title">IMAGINE UM<br>LUGAR…</div>
+            <div class="text-center title">IMAGINE DOIS<br>LUGARES…</div>
             <div class="subtitle text-center">…onde você possa pertencer a um clube escolar, um grupo de gamers, ou uma comunidade artística mundial. Onde você e alguns amigos possam passar um tempo juntos. Um lugar que torna fácil conversar todos os dias e socializar com mais frequência.</div>
             <div class="flex flex-center q-mt-lg">
               <q-btn
